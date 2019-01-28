@@ -3,7 +3,7 @@
 ### ex2:[Logistic Regression][2]
 ### ex3:[Multi-class classification and neural networks][3]
 ### ex4:[Neural network learning][4]
-### ex5:[Regularized linear regression and bias-variance](5]
+### ex5:[Regularized linear regression and bias-variance][5]
 ### ex6:[Support Vector Machiness][6]
 ### ex7:[K-Means Clustering and PCA][7]
 ### ex8:[Anomaly Detection and Recommender Systems][8]
